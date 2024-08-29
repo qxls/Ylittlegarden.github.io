@@ -46,5 +46,5 @@ profiles:
     label: Download my resume
 ---
 
-爱情不会一直存在，但我会反反复复爱上你
+爱情不会一直存在，但我会反反复复爱上你。
 
