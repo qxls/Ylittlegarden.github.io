@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Geophysics
+role: 合肥一六八学
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chinese university of mining technology (BeiJing)
+  - name: 欢迎加入我的课题组
     url: https://www.cumtb.edu.cn/
 
 # Social Networking
