@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 殷天佑
+title: 浩然天下课题组
 
 # Name pronunciation (optional)
 name_pronunciation: adventure brave creative
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 合肥一六八学
+role: 合肥一六八学——清华大学联合培养
 
 # Organizations/Affiliations to show in About widget
 organizations:
